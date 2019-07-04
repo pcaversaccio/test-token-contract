@@ -14843,6 +14843,12 @@
     "version": "0.5.0+commit.1d4f565a.Emscripten.clang"
   },
   "networks": {
+    "4": {
+      "events": {},
+      "links": {},
+      "address": "0x40A1BE7f167C7f14D7EDE17972bC7c87b91e1D91",
+      "transactionHash": "0x53c613a76f2ce21a5ccee5f9765cb95e73ac0a3e134794fcb0c0bc9d4a1f08ca"
+    },
     "5777": {
       "events": {},
       "links": {},
@@ -14851,7 +14857,7 @@
     }
   },
   "schemaVersion": "3.0.9",
-  "updatedAt": "2019-07-04T10:40:22.854Z",
+  "updatedAt": "2019-07-04T11:39:29.977Z",
   "devdoc": {
     "author": "Pascal Marco Caversaccio, pascal@alethena.com",
     "details": "These tokens are based on the ERC20 standard and the open-zeppelin library. * These tokens are uncertified alethena shares (Wertrechte according to the Swiss code of obligations), with this smart contract serving as onwership registry (Wertrechtebuch), but not as shareholder registry, which is kept separate and run by the company. This is equivalent to the traditional system of having physical share certificates kept at home by the shareholders and a shareholder registry run by the company. Just like with physical certificates, the owners of the tokens are the owners of the shares. However, in order to exercise their rights (for example receive a dividend), shareholders must register with the company. For example, in case the company pays out a dividend to a previous shareholder because the current shareholder did not register, the company cannot be held liable for paying the dividend to the \"wrong\" shareholder. In relation to the company, only the registered shareholders count as such. Registration requires setting up an account with ledgy.com providing your name and address and proving ownership over your addresses.",

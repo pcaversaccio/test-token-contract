@@ -14695,7 +14695,7 @@
   },
   "networks": {},
   "schemaVersion": "3.0.9",
-  "updatedAt": "2019-07-04T10:40:21.708Z",
+  "updatedAt": "2019-07-04T11:38:07.120Z",
   "devdoc": {
     "methods": {
       "clearClaim()": {
