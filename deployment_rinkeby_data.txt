@@ -1,0 +1,37 @@
+  Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0xca27ae2c48a2a7d0dd1474f4a49c56d2463c5c438e5c69d267e8e74f0b90b88f
+   > Blocks: 1            Seconds: 12
+   > contract address:    0x5f8C5535808E38f3f2e7C4934AE033c59d59C808
+   > block number:        4674034
+   > block timestamp:     1562240324
+   > account:             0x3854Ca47Abc62A3771fE06ab45622A42C4A438Cf
+   > balance:             9.99715092
+   > gas used:            284908
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00284908 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00284908 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'TestTokenContract'
+   -----------------------------
+   > transaction hash:    0x53c613a76f2ce21a5ccee5f9765cb95e73ac0a3e134794fcb0c0bc9d4a1f08ca
+   > Blocks: 0            Seconds: 12
+   > contract address:    0x40A1BE7f167C7f14D7EDE17972bC7c87b91e1D91
+   > block number:        4674036
+   > block timestamp:     1562240354
+   > account:             0x3854Ca47Abc62A3771fE06ab45622A42C4A438Cf
+   > balance:             9.95863913
+   > gas used:            3809145
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.03809145 ETH
