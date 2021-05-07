@@ -1,0 +1,23 @@
+{
+  "name": "test-token-contract",
+  "version": "1.0.0",
+  "description": "This is a test equity token contract to be deployed on the local Ganache testnet and the Rinkeby testnet.\r ## Get Started\r ### Setup Truffle Project\r ```\r truffle init\r ```\r ### Compiling the Truffle Project\r ```\r truffle compile\r ```\r ### Migrate the Truffle Project to Ganache\r Make the following adjustment in the `truffle-config.json` file:\r ```\r     development: {\r       host: \"127.0.0.1\",     // Localhost (default: none)\r       port: 7545,            // Standard Ethereum port (default: none)\r       network_id: \"5777\",       // Any network (default: none)\r       },\r ```\r Write the deployment script in the folder `migrations`. The migration file name should start with a number. I use to call it `2_deploy_contracts.js`.",
+  "main": "truffle-config.js",
+  "dependencies": {
+    "underscore": ">=1.12.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcaversaccio/test-token-contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcaversaccio/test-token-contract/issues"
+  },
+  "homepage": "https://github.com/pcaversaccio/test-token-contract#readme"
+}
